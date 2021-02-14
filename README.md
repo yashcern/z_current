@@ -7,3 +7,9 @@
 ![w2](https://user-images.githubusercontent.com/68737803/107876353-8274e180-6eeb-11eb-9bb9-90bd52f5e63d.jpg)
 
 ### Programe in **[C#](https://github.com/yashcern/z_current/blob/zener/opam2.cs)**
+
+### Programe in **[Python](https://github.com/yashcern/z_current/blob/zener/opam1.py)**
+
+### Programe in **[C](https://github.com/yashcern/z_current/blob/zener/opam3.c)**
+
+### Programe in **[C++](https://github.com/yashcern/z_current/blob/zener/opam4.cpp)**
