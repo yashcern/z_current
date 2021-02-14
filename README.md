@@ -2,7 +2,7 @@
 
 ![w1](https://user-images.githubusercontent.com/68737803/107680802-54618880-6cc4-11eb-9cf4-60c13a2e9efa.jpg)
 
-### 2. The Summing amplifi er using both sides of the op amp. **Python**,**C**,**C++**,**C#** programe for the Euation of voltage gains and Output Voltage.
+### 2. The Summing amplifi er using both sides of the op amp. **Python**,**C**,**C++**,**C#** programe for the Equation of voltage gains and Output Voltage.
 
 ![w2](https://user-images.githubusercontent.com/68737803/107876353-8274e180-6eeb-11eb-9bb9-90bd52f5e63d.jpg)
 
