@@ -34,7 +34,7 @@ namespace opamp
         {   
             double Rf, R1, R2, R3, R4, R5, V1, V2, V3, V4, Av1, Av2, Av3, Av4, Vout;
             
-            // Reading Values of Resistors
+            // Taking Input Values of Resistors
 
             Console.WriteLine("Rf: ");
             Rf = Convert.ToDouble(Console.ReadLine());
@@ -49,7 +49,7 @@ namespace opamp
             Console.WriteLine("R5: ");
             R5 = Convert.ToDouble(Console.ReadLine());
             
-            // Reading Valuse of Voltages
+            // Taking Input Valuse of Input Voltages
 
             Console.WriteLine("V1: ");
             V1 = Convert.ToDouble(Console.ReadLine());
