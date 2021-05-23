@@ -1,3 +1,5 @@
+// OPamp Voltage gain Calculator
+
 using System;
 namespace opamp
 {
@@ -31,6 +33,8 @@ namespace opamp
         static void Main(string[] args)
         {   
             double Rf, R1, R2, R3, R4, R5, V1, V2, V3, V4, Av1, Av2, Av3, Av4, Vout;
+            
+            // Reading Values of Resistors
 
             Console.WriteLine("Rf: ");
             Rf = Convert.ToDouble(Console.ReadLine());
@@ -44,6 +48,8 @@ namespace opamp
             R4 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("R5: ");
             R5 = Convert.ToDouble(Console.ReadLine());
+            
+            // Reading Valuse of Voltages
 
             Console.WriteLine("V1: ");
             V1 = Convert.ToDouble(Console.ReadLine());
